@@ -1,0 +1,14 @@
+#Variables explained
+
+#This is a variable
+name = "Kieran"
+
+#The variable is called "name"
+#The variable is storing a value
+#The value is "Kieran"
+#Variables are used in games a lot
+#For example:
+score = 0
+#The value in a variable can change
+#For example:
+score = 100
