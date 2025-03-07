@@ -1,0 +1,21 @@
+#Python has many "built in" functions
+#Here is a list:
+#https://docs.python.org/3/library/functions.html
+
+#Here is a variable:
+name = "bob"
+
+#However, not everyone is called Bob
+#Here is how to allow a user to input their name
+name = str(input("Enter your name"))
+#str = string
+print ("Nice to meet you", name)
+
+age = int(input("Enter your age"))
+print("You are", age)
+
+colour = str(input("Enter your favourite colour"))
+print("My favourite colour is", colour, "too!")
+
+location = str(input("Where do you live?"))
+print("I haven't heard of", location, "before")
