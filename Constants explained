@@ -1,0 +1,32 @@
+#The definition of a variable is:
+#A named location
+#in a computer's memory
+#that stores a value
+#the value can change
+
+#The definition of a CONSTANT is:
+#A named location
+#in a computer's memory
+#that stores a value
+#the value SHOULD NOT be changed
+
+#An example of a variable is:
+pie = "pumpkin"
+#This could be changed to:
+pie = "apple"
+#Because variables CAN change
+
+#An example of a CONSTANT is:
+PI = 3.14
+#This CANNOT change
+
+#Here are more examples of CONSTANTS:
+FREETHROW = 1
+DUNKSHOT = 2
+THREEPOINTER = 3
+#Constants are always written in CAPITALS
+
+#No matter what...
+#Freethrows will always be 1 point
+#Dunkshots will always be 2 points
+#Threepointers will always be 3 points
