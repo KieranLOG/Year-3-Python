@@ -1,0 +1,8 @@
+#Data types
+#C.R.I.B.S
+#Here are variables that hold each type of data type
+C = character = "4" or "!" or "N" etc.
+R = realFloat = 22.45 or 65.73 etc.
+I = integer = 555 or 12 or 93 etc.
+B = boolean = True or False
+S = string = "ABC123!&*"
