@@ -1,0 +1,36 @@
+no1 = int(input())
+no2 = int(input())
+print(no1 + no2, no1 - no2, no1 * no2, no1 / no2)
+
+F = int(input())
+C = (F-32)*5/9
+if C >= 15:
+    print("take the dog out")
+else:
+    print("stay inside")
+
+no1 = int(input())
+no2 = float(input())
+if no1 > 5:
+    print((no1*no2)*0.9)
+if no1 < 5:
+    print(no1*no2)
+
+N = int(input())
+J = N/2.34
+if J > 250:
+    print("too heavy")
+if J < 100:
+    print("too light")
+else:
+    print("just right")
+
+N = int(input())
+if N = "DUB":
+    print("Dublin")
+elif N = "BEL":
+    print("Belfast")
+elif N = "MAN":
+    print("Manchester")
+else:
+    print("Unknown")
