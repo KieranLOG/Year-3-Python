@@ -66,3 +66,64 @@ if age >= 15 or ticket = True
   print("Please find your seat")
 else:
   print("You are not allowed this time")
+
+---------------------------------------------------
+
+#SELECTION CHALLENGE 7
+
+age = int(input("Enter your age"))
+
+print("Welcome to the cinema")
+print("This movie is rated 15")
+print("")
+
+if age >= 15 and ticket == "y":
+    print("Please find your seat")
+else:
+    print("You are not allowed this time")
+
+---------------------------------------------------
+
+#SELECTION CHALLENGE 8
+
+player = int(input("Press 1 for 1-player, 2 for 2-player, 3 for 3-player"))
+
+if player == 1:
+    print("Thank you for choosing 1-player")
+elif player == 2:
+    print("Thank you for choosing 2-player")
+elif player == 3:
+    print("Thank you for choosing 3-player")
+else:
+    print("Invalid choice")
+
+---------------------------------------------------
+
+#SELECTION CHALLENGE 9
+
+print("To enter, you must be 18, and either have an invitation or be a member")
+
+age = int(input("Enter your age"))
+member = input("Are you a club member? (y/n)")
+invitation = input("Do you have an invitation? (y/n)")
+
+if age >= 18 and (member == "y" or invitation == "y"):
+    print("Welcome to the club!")
+else:
+     print("Sorry, you do not meet the requirements")
+
+---------------------------------------------------
+
+#SELECTION CHALLENGE 10
+
+kebab = input("Do you want a kebab or not - y or n")
+
+if kebab == "y":
+    sauce = input("With chilli sauce - y or n")
+    if sauce == "n":
+      print("hmm")
+    else:
+      print("Of course you want chilli sauce")
+
+else:
+    print("Are you feeling OK?")
