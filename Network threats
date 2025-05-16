@@ -1,0 +1,19 @@
+      #MALWARE
+  #Virus
+#Programs that infect other files and can cause damage
+  #Worm
+#Self-replicating programs that spread over networks
+  #Trojan
+#Programs disguised as legitimate software that, when executed, perform malicious actions
+  #Ransomware
+#When attackers encyrpt your files and charge you money to decrypt them
+  #Spyware
+#Software that collects personal information without the user's knowledge or consent
+  #Pharming
+#User is redirected to a fake website, where they enter their login details, and back to the geniune one
+
+      #SOCIAL ENGINEERING
+  #Phishing
+#Sending emails or messages that impersonate legitamate oragnisations
+  #Human error
+  #Blagging
